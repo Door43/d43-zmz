@@ -17,10 +17,6 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 **Recent Changes**
 {{changes>ns = zmz}}
 
-**Latest Status**
-{{page>en:uwadmin:zmz:obs:status}}
-
-
 **Language Information**
 
 [[http://www.ethnologue.com/language/zmz|Ethnologue data]]
